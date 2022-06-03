@@ -1,3 +1,7 @@
 # AI project 5300
 
-Study and predict Maternal health risk by using Neural Networks and Tensorflow Keras. 
+Study of using Neural Networks and Python TensorflowKeras. 
+
+Predict Maternal health risk by taking given dataset.
+https://archive.ics.uci.edu/ml/datasets/Maternal+Health+Risk+Data+Set
+
