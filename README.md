@@ -1,4 +1,4 @@
-# AI project 5300
+# Deep Learning - Maternal health risk prediction
 
 Study of using Neural Networks and Python TensorflowKeras. 
 
